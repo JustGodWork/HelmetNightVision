@@ -1,5 +1,8 @@
 night-vision-helmets:
+  - TURTLE
+  # - LEATHER
+  # - CHAINMAIL
   # - IRON
-  - GOLD
-  - DIAMOND
+  # - GOLD
+  # - DIAMOND
   - NETHERITE

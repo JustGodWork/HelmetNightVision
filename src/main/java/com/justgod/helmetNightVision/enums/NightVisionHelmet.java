@@ -4,6 +4,9 @@ import org.bukkit.Material;
 
 public enum NightVisionHelmet {
 
+    TURTLE("TURTLE", Material.TURTLE_HELMET),
+    LEATHER("LEATHER", Material.LEATHER_HELMET),
+    CHAINMAIL("CHAINMAIL", Material.CHAINMAIL_HELMET),
     IRON("IRON", Material.IRON_HELMET),
     GOLD("GOLD", Material.GOLDEN_HELMET),
     DIAMOND("DIAMOND", Material.DIAMOND_HELMET),
