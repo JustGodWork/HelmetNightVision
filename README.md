@@ -7,7 +7,7 @@ Removes night vision when players remove the specified helmets.
 
 ## Installation
 
-- Download the latest release of the plugin from the [latest release page](https://github.com/yourusername/HelmetNightVision/releases/latest).
+- Download the latest release of the plugin from the [latest release page](https://github.com/JustGodWork/HelmetNightVision/releases/latest).
 - Place the downloaded JAR file into your server's `plugins` directory.
 - Start or restart your Minecraft server.
 
