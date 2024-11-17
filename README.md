@@ -29,14 +29,14 @@ Uncomment the helmets you want to grant night vision to players when worn.
 ## Building from Source
 To build the plugin from source, follow these steps:
 
-Clone the repository:
-
-- Build the project using Gradle:
+- Clone the repository:
     ```
     git clone https://github.com/yourusername/HelmetNightVision.git
     cd HelmetNightVision
     ```
-- The built JAR file will be located in the libs directory.
+- Build the project using Gradle:
+  ```./gradlew build```
+  The built JAR file will be located in the libs directory.
 
 ## Usage
 Once the plugin is installed and configured, players will automatically receive night vision when they wear one of the specified helmets. The night vision effect will be removed when they take off the helmet.
