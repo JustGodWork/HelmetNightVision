@@ -1,0 +1,4 @@
+name: HelmetNightVision
+version: '1.0-SNAPSHOT'
+main: com.justgod.helmetNightVision.HelmetNightVision
+api-version: '1.21'
